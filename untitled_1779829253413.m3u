@@ -1,6 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXTINF:-1,ÖZEL KANALIM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXT-X-STREAM-INF:BANDWIDTH=6500000,RESOLUTION=1920x1080
 https://more-solutions-agency-ppc.trycloudflare.com/live/livestream.m3u8?type=m3u8&input=ts
