@@ -1,2 +1,3 @@
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="OZAN-LİSTE ULUSALLAR",TV LOVE
-https://onlinetv1.short.gy/Tvlove.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="OZAN-LİSTE",TV LOVE (LİSTE)
+https://onlinetv1.short.gy/Tvlove.m3u8?m3u=true
